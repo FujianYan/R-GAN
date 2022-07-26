@@ -11,7 +11,7 @@ https://user-images.githubusercontent.com/32248581/180898120-127653c9-9000-4efc-
 #### Linear and Rotary Motion ####
 https://user-images.githubusercontent.com/32248581/180898149-3b0750a2-184d-452b-af5f-ba1fc6817aaf.mp4
 #### Power Transmition ####
-https://user-images.githubusercontent.com/32248581/180898236-3708a73e-9408-43ea-b83c-7c566e0f62e7.mp4
+https://user-images.githubusercontent.com/32248581/180898818-a33d26e1-2e36-4465-bd21-65afe1b1a0be.mp4
 #### Sealing ####
 https://user-images.githubusercontent.com/32248581/180898253-6c6647a0-45c8-4d45-a582-dfb1d10031ea.mp4
 
